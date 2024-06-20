@@ -6,9 +6,6 @@ namespace Interface_WMS_Expedicao.Classes
     class GerenciarAcessos
     {
 
-        private static string NivelHierarquico; //Melhoria 2
-        private static string NivelPermissao; //Melhoria 1
-
         private static string Usuario;
         private static string ResultLogin;
 
