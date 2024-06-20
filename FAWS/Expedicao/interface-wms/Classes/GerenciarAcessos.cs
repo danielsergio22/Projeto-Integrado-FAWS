@@ -6,6 +6,9 @@ namespace Interface_WMS_Expedicao.Classes
     class GerenciarAcessos
     {
 
+        private static string Cargo; //Primeiro Commit suposto ajuste emergencia produção
+        private static string NivelPermissao; //Primeiro Commit suposto ajuste emergencia produção
+
         private static string Usuario;
         private static string ResultLogin;
 
