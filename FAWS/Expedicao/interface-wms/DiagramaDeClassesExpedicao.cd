@@ -8,7 +8,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="interface_wms.Classes.Metodos" Collapsed="true">
-    <Position X="5.75" Y="1.5" Width="1.0" /> <!--melhoria 3-->
+    <Position X="5.75" Y="1.5" Width="1.4" /> <!--melhoria 4-->
     <TypeIdentifier>
       <HashCode>AABAAIAAAAAAAAAAAAAAAQQACAAAAAAAAABAAAAAAAA=</HashCode>
       <FileName>Classes\Metodos.cs</FileName>
